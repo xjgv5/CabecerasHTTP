@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b72be3ec-3518-439e-ac0a-1a6ebcc0e7a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xjgv/apiservlet/webapp/headers/controllers/BuscarProductoServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/buscar.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
     </list>
@@ -105,7 +103,7 @@
       <option name="presentableId" value="Default" />
       <updated>1704173994473</updated>
       <workItem from="1704174400206" duration="317000" />
-      <workItem from="1704221322487" duration="15801000" />
+      <workItem from="1704221322487" duration="19431000" />
     </task>
     <servers />
   </component>
